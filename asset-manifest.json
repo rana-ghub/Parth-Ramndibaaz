@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parth-ramndibaaz/static/css/main.157f68f6.chunk.css",
+    "main.js": "/parth-ramndibaaz/static/js/main.e1ba12c4.chunk.js",
+    "main.js.map": "/parth-ramndibaaz/static/js/main.e1ba12c4.chunk.js.map",
+    "runtime-main.js": "/parth-ramndibaaz/static/js/runtime-main.5078ab27.js",
+    "runtime-main.js.map": "/parth-ramndibaaz/static/js/runtime-main.5078ab27.js.map",
+    "static/js/2.9d0f79ee.chunk.js": "/parth-ramndibaaz/static/js/2.9d0f79ee.chunk.js",
+    "static/js/2.9d0f79ee.chunk.js.map": "/parth-ramndibaaz/static/js/2.9d0f79ee.chunk.js.map",
+    "index.html": "/parth-ramndibaaz/index.html",
+    "precache-manifest.4fa13cde5f374ec96748557431751ac6.js": "/parth-ramndibaaz/precache-manifest.4fa13cde5f374ec96748557431751ac6.js",
+    "service-worker.js": "/parth-ramndibaaz/service-worker.js",
+    "static/css/main.157f68f6.chunk.css.map": "/parth-ramndibaaz/static/css/main.157f68f6.chunk.css.map",
+    "static/js/2.9d0f79ee.chunk.js.LICENSE.txt": "/parth-ramndibaaz/static/js/2.9d0f79ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5078ab27.js",
+    "static/js/2.9d0f79ee.chunk.js",
+    "static/css/main.157f68f6.chunk.css",
+    "static/js/main.e1ba12c4.chunk.js"
+  ]
+}
